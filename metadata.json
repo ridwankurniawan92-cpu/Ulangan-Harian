@@ -1,0 +1,6 @@
+{
+  "name": "ULANGAN HARIAN KELAS 3",
+  "description": "Sistem Evaluasi Pembelajaran Digital untuk Sekolah Dasar Kelas III (Kurikulum Merdeka 2026/2027).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
